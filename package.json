@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "cypress": "^8.6.0",
+    "cypress-file-upload": "^5.0.8"
+  },
+  "name": "assignment-datawow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
